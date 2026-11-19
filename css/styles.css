@@ -1,3 +1,4 @@
+/* AUTOSHIFT thumbnail display fix: 2026-11-19 */
 @charset "utf-8";
 
 /* =========================
@@ -1242,6 +1243,7 @@ main .work-info-row > span { font-size: 17px !important; line-height: 1.9; }
   border-radius: 4px;
 }
 .works-instruction strong { color: inherit; font-weight: 700; }
+
 
 
 
